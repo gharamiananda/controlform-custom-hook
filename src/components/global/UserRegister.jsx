@@ -61,6 +61,7 @@ const UserRegister = () => {
 
 export default UserRegister
 
+
 const FormFields=(props)=>{
     const  {values,handleSubmit}=props ||{}
 console.log('InputControlprops', props)
